@@ -1,0 +1,230 @@
+body{
+background-color:rgb(37,37,37);
+text-align: center;
+}
+.hed{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: azure;
+    margin: 50px 50px;
+}
+
+
+.img1{
+    background-color:lightpink;
+    color: black;
+    width:40%;
+    height:30%;
+    padding: 50px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img2{
+    background-color:lightyellow;
+    color: black;
+    width:40%;
+    height:30%;
+    padding:50px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img3{
+    background-color:white;
+    color: black;
+    width:40%;
+    height:30%;
+    padding:50px 40px;
+    margin:30px;
+    text-align: center;
+    display:inline-block;
+    border-radius: 20px;
+}
+.img4{
+    background-color:aquamarine;
+    color: black;
+    width:40%;
+    height:30%;
+    padding:50px 40px;
+    margin:30px;
+    text-align: center;
+    display:inline-block;
+    border-radius: 20px;
+}
+.img5{
+    background-color:aqua;
+    color: black;
+    width:40%;
+    height:30%;
+    padding:50px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img6{
+    background-color:lightpink;
+    color: black;
+    width:40%;
+    height:30%;
+    padding:50px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img7{
+    background-color:rgb(138, 189, 138);
+    color: black;
+    width:35%;
+    height:20%;
+    padding:20px 40px ;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+}
+.img8{
+    background-color: bisque;
+    width:35%;
+    height:20%;
+    padding: 20px 40px;
+    margin: 30px;
+    text-align: center;
+    display: inline-block;
+}
+.img20{
+    background-color:rgb(198, 75, 94);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display:inline-block;
+    border-radius: 20px;
+}
+.img9{
+    background-color:rgb(229, 226, 83);
+    color: black;
+    width:20%;
+    height:15%;
+    padding: 20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img10{
+    background-color:rgb(74, 100, 145);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img11{
+    background-color:rgb(174, 94, 94);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img12{
+    background-color:rgb(88, 44, 138);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img13{
+    background-color:rgb(10, 169, 106);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img14{
+    background-color:rgb(200, 107, 26);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img15{
+    background-color:rgb(71, 12, 47);
+    color: black;
+    width:20%;
+    height:15%;
+    padding:20px 0px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img16{
+    background-color:rgb(153, 81, 81);
+    color: black;
+    width:35%;
+    height:20%;
+    padding:20px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img17{
+    background-color:rgb(162, 178, 226);
+    color: black;
+    width:35%;
+    height:20%;
+    padding:20px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img18{
+    background-color:rgb(23, 192, 164);
+    color: black;
+    width:35%;
+    height:20%;
+    padding:20px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+.img19{
+    background-color:rgb(81, 153, 100);
+    color: black;
+    width:35%;
+    height:20%;
+    padding:20px 40px;
+    margin:30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
